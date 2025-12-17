@@ -1,0 +1,5 @@
+{
+  "name": "Invoice & Contact Scanner",
+  "description": "Digitize invoices and business cards using Gemini 3 multimodal AI. Extract structured data and export to CSV or Google Contacts.",
+  "requestFramePermissions": []
+}
